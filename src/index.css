@@ -117,12 +117,6 @@ input {
 input:focus {
   outline: none;
 }
-.feedback-list {
-  display: flex;
-  flex-direction: column;
-  align-items: start;
-  justify-content: start;
-}
 
 .feedback-stats {
   color: #fff;
